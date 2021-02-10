@@ -5,6 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var conflictVar = "1234";
+var can = can;
 //github 
 var wikiUrls1 = "";
 rp(url)
