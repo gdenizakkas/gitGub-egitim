@@ -4,6 +4,7 @@ const url = 'https://www.cangokceaslan.com';
 const express = require('express');
 var port = 3000;
 var app = express();
+var conflictVar = "1234";
 //github 
 var wikiUrls1 = "";
 rp(url)
