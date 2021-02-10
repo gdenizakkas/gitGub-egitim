@@ -6,6 +6,10 @@ var port = 3000;
 var app = express();
 var conflictVar = "1234";
 var can = can;
+var stash = "false";
+var stash1 =" true";
+var stash2 = "can" ;
+
 //github 
 var wikiUrls1 = "";
 rp(url)
